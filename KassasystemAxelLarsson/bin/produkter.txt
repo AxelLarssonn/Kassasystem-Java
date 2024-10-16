@@ -1,0 +1,6 @@
+Kaffe,51.00,12
+Nallebjörn,110.00,25
+Mugg,70.00,25
+Chips,25.00,12
+Yoghurt,15.00,12
+Daim,10.00,25
