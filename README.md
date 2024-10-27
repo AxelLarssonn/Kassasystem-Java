@@ -18,7 +18,7 @@ Installation
 Klona detta repo:
 bash
 Kopiera kod
-git clone https://github.com/[ditt-användarnamn]/Kassasystem.git
+git clone https://github.com/[ditt-användarnamn]/Kassasystem-Java.git
 Öppna projektet i din Java IDE (som IntelliJ IDEA eller Eclipse).
 Säkerställ att Java JDK 8 eller senare är installerat.
 Användning
